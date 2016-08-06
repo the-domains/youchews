@@ -1,14 +1,14 @@
-layout_spectrum: 0.13627549377270043
-typography_spectrum: 0.9115416170097888
+layout_spectrum: 0.8667020960710943
+typography_spectrum: 0.6848248410969973
 color:
-  brandStrength: 0.9151040590368211
-  lightness: 0.5055249147117138
-  saturation: 0.8437443780712783
-  rhythmicContrast: 0.6764562150929123
+  brandStrength: 0.44302503834478557
+  lightness: 0.9053864653687924
+  saturation: 0.12776205549016595
+  rhythmicContrast: 0.7950795290526003
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: YOUCHEWS/擇食小棧
