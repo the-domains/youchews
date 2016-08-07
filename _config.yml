@@ -1,4 +1,3 @@
-layout_spectrum: 0.8667020960710943
 typography_spectrum: 0.6848248410969973
 color:
   brandStrength: 0.44302503834478557
@@ -11,4 +10,9 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-name: YOUCHEWS/擇食小棧
+layout_spectrum: 0.8667020960710943
+author:
+  name: Angel Lu
+  email: youchewstw@gmail.com
+name: YOUCHEWS | 擇食小棧
+title: ''
